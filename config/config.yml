@@ -1,0 +1,42 @@
+data:
+  filepath: "data/htc_examples_ids_with_pure_skills.csv"
+  model_name: "emilyalsentzer/Bio_ClinicalBERT"
+  skip_text_embedding: false
+
+model:
+  in_channels: 768
+  hidden_channels: 64
+  num_common_factors: 4
+  num_intervention_concepts: 3
+  num_skills: 8
+  num_layers: 3
+  dropout: 0.5
+  graph_model_type: "sage"  # Options: "sage", "gcn", "gat"
+  aggregator: "mean"       # Only used when graph_model_type is "sage"
+
+training:
+  lr: 0.001
+  weight_decay: 1e-4
+  epochs: 400
+  task_weights: [1.0, 1.0, 1.0]
+  patience: 50
+  contrastive_weight: 0
+  temperature: 1
+  wandb:
+    enabled: false
+    project: "cfs-skills-gnn"
+    entity: "kth-scs-fabis"
+    notes: "Train run for GNN"
+cross_validation:
+  enabled: true  # Set to true to enable cross-validation
+  n_folds: 3
+  epochs: 200
+  task_weights: [1.0, 1.0, 1.0]
+  patience: 50
+  contrastive_weight: 0
+  temperature: 1
+  wandb:
+    enabled: false
+    project: "cfs-skills-gnn"
+    #entity: "kth-scs-fabis"
+    notes: "Cross-validation run for GNN"

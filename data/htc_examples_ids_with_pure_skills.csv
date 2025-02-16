@@ -1,0 +1,182 @@
+text,CF,CF_full_label,CF_id,IC,IC_full_label,IC_id,skill,skill_full_label,skill_id
+"I hear you, and it must feel awful to be criticized in that way.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,V,Validation,10
+It sounds like you’re feeling really overwhelmed right now. That’s completely understandable given what you’re going through.,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,V,Validation,10
+I can hear the pain in your voice when you talk about that experience. It must have been incredibly hard for you.,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,V,Validation,10
+"And yet, as you say, you do have these desires and you do have your feelings, but- but you don't feel good about them?",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,RL,Reflective Listening,8
+"Yeah, I get the disappointment - that here, a lot of these things you’d thought you'd worked through, and now the guilts and the feeling that only a part of you is acceptable to anybody else.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,RL,Reflective Listening,8
+I guess I do catch the real deep puzzlement that you feel as to What the hell shall I do? What can I do?,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,RL,Reflective Listening,8
+Hearing about your experience made me feel a deep sense of empathy for what you’ve gone through. It’s incredibly impactful.,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,G,Genuineness,9
+"You have a great deal of patience and courage, I admire that.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,A,Affirmation,11
+"As you talk about all of the troubles you've been through, do you know what strikes me? You are a real survivor. You've taken a lot of hard knocks, and you're still here.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,A,Affirmation,11
+Thank you for being willing to discuss our relationship. It is very helpful.,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,A,Affirmation,11
+"You intended not to drink at all this week, and you had five days with no alcohol at all. That's amazing! How did you do that?",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,A,Affirmation,11
+You deeply love your children and want to do all you can to protect them.,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,A,Affirmation,11
+I appreciate you being so open and forthright about what is going through your mind here.,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,A,Affirmation,11
+I support your decision to set boundaries in that relationship. It sounds like it’s what you need for your well-being.,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,RA,Respect for Autonomy,12
+"This is just my opinion of course, and you might disagree, but from my perspective, it seems that you have a number of qualities that make you a good candidate for this treatment.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,RA,Respect for Autonomy,12
+"I'll tell you what I heard there and you tell me if I got it or not, but it's kind of like, you've been so busy from the time you were a girl, being a role model, and having these abilities, that you had no resting place.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,RA,Respect for Autonomy,12
+You’ve got the strength and ability to handle this. What strategies have worked for you in the past?,B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,RA,Respect for Autonomy,12
+"You’re safe here to express whatever you’re feeling. There’s no judgment, only support.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,,,
+"I hear you, and I want to understand what you're experiencing.",B,Bond,1,EAR,"Empathy, Acceptance and Positive Regard",5,,,
+You know yourself better than anyone else. What do you think would be the most helpful next step?,B,Bond,1,CP,Collaboration and Partnership,6,RA,Respect for Autonomy,12
+We’ll move at a pace that feels comfortable for you. Let me know if you ever need to slow down or take a break.,B,Bond,1,CP,Collaboration and Partnership,6,RA,Respect for Autonomy,12
+How do you feel about the options we’ve discussed? Which one resonates most with you?,B,Bond,1,CP,Collaboration and Partnership,6,RA,Respect for Autonomy,12
+You have a lot of insight into your own life. What do you believe is the root of this issue?,B,Bond,1,CP,Collaboration and Partnership,6,RA,Respect for Autonomy,12
+I believe you have the skills to manage this situation. How would you like to approach it?,B,Bond,1,CP,Collaboration and Partnership,6,RA,Respect for Autonomy,12
+"It’s your decision, and I’m here to support you in whatever you choose. What possibilities are you considering?",B,Bond,1,CP,Collaboration and Partnership,6,RA,Respect for Autonomy,12
+"You are certainly the expert in knowing yourself, and we will need to draw on that expertise as we progress.",B,Bond,1,CP,Collaboration and Partnership,6,RA,Respect for Autonomy,12
+"I realize I might not fully understand your experience right now, and I appreciate your patience as we work through this together.",B,Bond,1,CP,Collaboration and Partnership,6,G,Genuineness,9
+"Although no course of treatment is foolproof, I do believe that we can work together to help you deal with your problems.",B,Bond,1,CP,Collaboration and Partnership,6,,,
+"You are certainly the expert in knowing yourself, and we will need to draw on that expertise as we progress. And, as an expert in this treatment approach, I can help to guide you through the process of therapy. The important thing is that we collaborate throughout the experience. Does this make sense?",B,Bond,1,CP,Collaboration and Partnership,6,,,
+"You have a say in your treatment, and we'll collaborate on the best path forward.",B,Bond,1,CP,Collaboration and Partnership,6,,,
+Our work together is a collaboration. Your insights and feedback are essential in tailoring our sessions to your needs.,B,Bond,1,CP,Collaboration and Partnership,6,,,
+Your therapy is about you. We'll customize our approach to align with your specific needs and aspirations.,B,Bond,1,CP,Collaboration and Partnership,6,,,
+I hope you feel comfortable sharing your true thoughts and feelings here. Your honesty is a vital part of our work together.,B,Bond,1,CP,Collaboration and Partnership,6,,,
+"I know you’re feeling frustrated right now, and I’m here to support you. Let’s work together to find a way through this.",B,Bond,1,CP,Collaboration and Partnership,6,,,
+Let’s focus on what you want to achieve in therapy. What are your goals for our work together?,GA,Goal alignment,2,,,,RA,Respect for Autonomy,12
+It’s important that the direction we take aligns with what you want to accomplish. What are your priorities right now?,GA,Goal alignment,2,,,,RA,Respect for Autonomy,12
+Let's work together to define some realistic objectives for you.,GA,Goal alignment,2,,,,RA,Respect for Autonomy,12
+"If at any point you feel the need to adjust our goals or priorities, please don't hesitate to let me know.",GA,Goal alignment,2,,,,RA,Respect for Autonomy,12
+Can you tell me more about what brings you to therapy and what changes you’re hoping to see in your life?,GA,Goal alignment,2,,,,OQ,Open-ended Question,14
+What would you like to achieve through our sessions together? What are the most important changes you want to make?,GA,Goal alignment,2,,,,OQ,Open-ended Question,14
+I want to make sure that the goals we set are ones that feel right for you. How do these goals align with what you’re hoping to achieve?,GA,Goal alignment,2,,,,OQ,Open-ended Question,14
+"Let’s work together to identify some concrete steps you can take towards your goals. What are some small, manageable actions that you feel ready to start with?",GA,Goal alignment,2,,,,OQ,Open-ended Question,14
+"By setting these goals, we’re creating a roadmap for your progress. How do you feel about these goals?",GA,Goal alignment,2,,,,OQ,Open-ended Question,14
+It sounds like you’ve been feeling very discouraged and overwhelmed. Can you help me understand more about what’s contributing to these feelings?,GA,Goal alignment,2,,,,RL,Reflective Listening,8
+It sounds like you’ve been feeling very discouraged and overwhelmed. Can you help me understand more about what’s contributing to these feelings?,GA,Goal alignment,2,,,,OQ,Open-ended Question,14
+"Based on what we’ve discussed, it seems like reducing your anxiety and improving your self-confidence are key goals for you. How do you feel about focusing on these areas?",GA,Goal alignment,2,,,,OQ,Open-ended Question,14
+That has been really useful to help me understand a little about what has led you to seek treatment; next it might be helpful for us to think together about what your hopes for the future might be.,GA,Goal alignment,2,,,,,,
+"Ok, now that we have agreed upon the goals you want to work on, it would be helpful to get an idea of where you are right now with each of the goals. This will help us get an idea of where we are starting from, and what you have already managed to achieve, and it can help us keep track of how far you have moved on, at a later date.",GA,Goal alignment,2,,,,,,
+I can appreciate your desire to stay with your past. Can we think about that in terms of our treatment plan and goals? I am open to revising our focus if it makes sense to us in terms of what we are trying to accomplish—and it very well may.,GA,Goal alignment,2,,,,V,Validation,10
+You know yourself better than anyone else. What do you think would be the most helpful next step?,TA,Task agreement,3,,,,RA,Respect for Autonomy,12
+We’ll move at a pace that feels comfortable for you. Let me know if you ever need to slow down or take a break.,TA,Task agreement,3,,,,RA,Respect for Autonomy,12
+How do you feel about the options we’ve discussed? Which one resonates most with you?,TA,Task agreement,3,,,,RA,Respect for Autonomy,12
+What do you think would be the best approach for you to take in this situation?,TA,Task agreement,3,,,,RA,Respect for Autonomy,12
+I’ve been thinking about incorporating some elements of art therapy into our sessions. Would you be interested in that?,TA,Task agreement,3,,,,RA,Respect for Autonomy,12
+"In our sessions, my role is to guide and support you in exploring your thoughts and feelings, while your role is to actively engage in this process and share openly. Does that sound good to you?",TA,Task agreement,3,,,,RA,Respect for Autonomy,12
+"We’ll meet here weekly for 50-minute sessions. If you ever need to reschedule or have any concerns about the setting, please let me know. Does that work for you?",TA,Task agreement,3,,,,RA,Respect for Autonomy,12
+"You are certainly the expert in knowing yourself, and we will need to draw on that expertise as we progress. And, as an expert in this treatment approach, I can help to guide you through the process of therapy. The important thing is that we collaborate throughout the experience. Does this make sense?",TA,Task agreement,3,CP,Collaboration and Partnership,6,,,
+Our work together is a collaboration. Your insights and feedback are essential in tailoring our sessions to your needs.,TA,Task agreement,3,CP,Collaboration and Partnership,6,,,
+"Today, I thought we could focus on the anxiety you’ve been experiencing at work. Does that align with what you want to work on today?",TA,Task agreement,3,CP,Collaboration and Partnership,6,,,
+We’ve been working on developing coping strategies for your stress. Do you feel that these strategies are aligning with your overall goal of feeling more in control?,TA,Task agreement,3,CP,Collaboration and Partnership,6,,,
+"After you've told me about your challenges, I have some ideas about how we could best address them. I'll explain them to you and would like to understand if they align with what you had in mind when you decided to start therapy. If you have any questions or input, please let me know.",TA,Task agreement,3,CP,Collaboration and Partnership,6,,,
+"Let’s work together to identify some concrete steps you can take towards your goals. What are some small, manageable actions that you feel ready to start with?",TA,Task agreement,3,,,,OQ,Open-ended Question,14
+How are you feeling about the progress we’re making towards your goals? Are there any adjustments you think we need to make?,TA,Task agreement,3,,,,OQ,Open-ended Question,14
+"Our sessions will take place here in this office, which is a confidential and safe space for you to talk about anything you need to. Is there anything you need to feel more comfortable in this setting?",TA,Task agreement,3,,,,OQ,Open-ended Question,14
+We will try to understand what stresses and relationships in your life may be contributing to depression.,TA,Task agreement,3,,,,,,
+I want to make sure you understand that therapy is a collaborative process. We’ll work together to identify the issues you want to focus on and develop strategies to address them. Is that clear?,TA,Task agreement,3,,,,,,
+"I'd like to meet with you once a week for twelve to sixteen more times for about an hour each time, to try to understand with you the stresses in your life and how they relate to your depression.",TA,Task agreement,3,,,,,,
+I’d like to try a mindfulness exercise that might help you manage your anxiety. Would you be open to giving it a try?,TA,Task agreement,3,,,,AP,Asking for Permission,13
+I have a homework assignment that might help you practice the skills we’re working on. Would you be willing to try it this week?,TA,Task agreement,3,,,,AP,Asking for Permission,13
+"You have a great deal of patience and courage, I admire that.",,,,,,,A,Affirmation,11
+"As you talk about all of the troubles you've been through, do you know what strikes me? You are a real survivor. You've taken a lot of hard knocks, and you're still here.",,,,,,,A,Affirmation,11
+Thank you for being willing to discuss our relationship. It is very helpful.,,,,,,,A,Affirmation,11
+"You intended not to drink at all this week, and you had five days with no alcohol at all. That's amazing! How did you do that?",,,,,,,A,Affirmation,11
+You deeply love your children and want to do all you can to protect them.,,,,,,,A,Affirmation,11
+I appreciate you being so open and forthright about what is going through your mind here.,,,,,,,A,Affirmation,11
+I had to laugh when I read your comment- you have such a good humor!,,,,,,,A,Affirmation,11
+I've gotten to know you as a very thoughtful and caring person.,,,,,,,A,Affirmation,11
+You didn't shy away from some really difficult material today. That took some courage.,,,,,,,A,Affirmation,11
+From my perspective it seems that you have a number of qualities that make you a good candidate for this treatment.,,,,,,,A,Affirmation,11
+I see that you incorporated more pleasurable experiences into your schedule this week. Great job.,,,,,,,A,Affirmation,11
+"While this area in your life seems really challenging right now, I'm sure your reflectivity and introspection will help you to cope with this situation.",,,,,,,A,Affirmation,11
+"Yes, it's indeed a challenging task, but you have managed to stay committed to it so far. How did you do that?",,,,,,,A,Affirmation,11
+It seems to me that it's natural for you to be so resilient.,,,,,,,A,Affirmation,11
+It's great how you can still establish closeness with your colleagues despite spending less time together.,,,,,,,A,Affirmation,11
+Thanks for completing the homework. I can see you are making progress.,,,,,,,A,Affirmation,11
+Your ability to face adversities is inspiring.,,,,,,,A,Affirmation,11
+"Your resilience really stands out to me, and it’s something I genuinely admire about you.",,,,,,,A,Affirmation,11
+"Right...And it feels like it's all too much, is that right?",,,,,,,RL,Reflective Listening,8
+You seem to be very upset about your mom's drinking problems.,,,,,,,RL,Reflective Listening,8
+"I wonder if you're feeling not only sad that he left you behind, but also a bit angry.",,,,,,,RL,Reflective Listening,8
+"It sounds like work has been overwhelming for you, and maybe it’s making you feel like you’re not in control of things right now.",,,,,,,RL,Reflective Listening,8
+"I'll tell you what I heard there... you've been so busy from the time you were a girl, being a role model, and having these abilities, that you had no resting place.",,,,,,,RL,Reflective Listening,8
+"It’s almost like you’re carrying the weight of the world on your shoulders, and it’s really draining you emotionally.",,,,,,,RL,Reflective Listening,8
+Somehow this means…I need something else?,,,,,,,RL,Reflective Listening,8
+"And it's this concern about her and the fact that you really aren't - that this open relationship that has existed between you, now you feel it's kind of vanished.",,,,,,,RL,Reflective Listening,8
+"Between the lines, I hear you say that it wasn't easy growing up as a black person.",,,,,,,RL,Reflective Listening,8
+"You’ve been putting in a lot of effort, and it’s frustrating to feel like it’s not paying off.",,,,,,,RL,Reflective Listening,8
+You feel kind of stuck.,,,,,,,RL,Reflective Listening,8
+But somehow…I still feel this wall in my life?,,,,,,,RL,Reflective Listening,8
+You feel anxious because you worry about bad things that might happen in the future.,,,,,,,RL,Reflective Listening,8
+"Yeah...It hurts so bad, I Imagine..it musst bring an ache to your body?",,,,,,,RL,Reflective Listening,8
+"It sounds like you’re on the verge of feeling completely defeated, and you might be wondering if there’s any hope left.",,,,,,,RL,Reflective Listening,8
+It seems like you’re struggling with a lot of uncertainty and perhaps fear about making the wrong decision.,,,,,,,RL,Reflective Listening,8
+Mhm...You are feeling all this unresolved pain?,,,,,,,RL,Reflective Listening,8
+What brings you to therapy?,,,,,,,OQ,Open-ended Question,14
+I'm noticing that your scores are showing an increase in distress; can you tell me more how things are going for you?,,,,,,,OQ,Open-ended Question,14
+I wonder what that has been like for you to grow up in a very violent neighbourhood.,,,,,,,OQ,Open-ended Question,14
+How may I help you today?,,,,,,,OQ,Open-ended Question,14
+So let's just start right there and tell me what brought you here today?,,,,,,,OQ,Open-ended Question,14
+You said earlier that you were bullied at school. Can you tell me a little bit more about that?,,,,,,,OQ,Open-ended Question,14
+What are you hoping to accomplish through this counseling relationship?,,,,,,,OQ,Open-ended Question,14
+It sounds like you have been considering counselling for some time; what happened that you decided to enter treatment now?,,,,,,,OQ,Open-ended Question,14
+Tell me more about your relationship with your father. How does his neglect affect you today?,,,,,,,OQ,Open-ended Question,14
+"Wow, I got to tell you, you touch me in my heart.",,,,,,,G,Genuineness,9
+I noticed I felt a bit defensive during our last session. I want to understand why that happened so I can better support you.,,,,,,,G,Genuineness,9
+I appreciate your willingness to share such personal experiences with me. It means a lot to me.,,,,,,,G,Genuineness,9
+"I have to be honest, I felt a bit concerned when you mentioned you’ve been isolating yourself more lately.",,,,,,,G,Genuineness,9
+"I realize I might not fully understand your experience right now, and I appreciate your patience as we work through this together.",,,,,,,G,Genuineness,9
+"I’ve faced similar challenges in my life, and I found that talking about it helped a lot. It’s important to find what works for you.",,,,,,,G,Genuineness,9
+Your feedback about how I responded last time is really valuable. I’m reflecting on that to ensure I’m more attuned to your needs.,,,,,,,G,Genuineness,9
+"I find your story really moving, and it’s made me think about the strength it takes to go through what you’ve experienced.",,,,,,,G,Genuineness,9
+I believe in the importance of setting clear boundaries. That’s why we’ll focus on establishing those in our sessions.,,,,,,,G,Genuineness,9
+I feel deeply moved by what you’ve shared.,,,,,,,G,Genuineness,9
+I want to be clear about what you can expect from our sessions. My goal is to help you feel understood and to support you in finding your own solutions.,,,,,,,G,Genuineness,9
+I'm genuinely glad that you have this support in your life.,,,,,,,G,Genuineness,9
+"I have to be honest, I don’t fully understand what you mean by that. Can you help me understand better?",,,,,,,G,Genuineness,9
+I’m genuinely happy to see the progress you’ve made. It’s inspiring for me to witness your growth.,,,,,,,G,Genuineness,9
+"When you shared that, I felt a strong sense of empathy for what you’ve been through. It must have been incredibly difficult.",,,,,,,G,Genuineness,9
+I think I may have misunderstood what you were saying earlier. Can you help me understand it better?,,,,,,,G,Genuineness,9
+"When you mentioned your frustration with your job, I could really feel the weight of that stress. It’s a tough situation.",,,,,,,G,Genuineness,9
+I really value the trust you’ve placed in me.,,,,,,,G,Genuineness,9
+It sounds like you’re feeling really overwhelmed right now. That’s completely understandable given what you’re going through.,,,,,,,V,Validation,10
+It’s normal to feel a mix of emotions after such a significant change. A lot of people go through similar feelings.,,,,,,,V,Validation,10
+You feel hurt because your friend didn’t support you when you needed them. That’s a legitimate feeling to have.,,,,,,,V,Validation,10
+"It makes sense that you’d think this way, considering the patterns you’ve experienced in past relationships.",,,,,,,V,Validation,10
+It must be really tough to feel like you’re always the one who has to compromise. That’s a hard position to be in.,,,,,,,V,Validation,10
+"It’s clear that from where you stand, the situation seems very unfair.",,,,,,,V,Validation,10
+Thank you for being honest about how you’re feeling. It’s okay to feel this way and to talk about it.,,,,,,,V,Validation,10
+It sounds like you’re really frustrated with how things turned out in that situation. I can see why you’d feel that way.,,,,,,,V,Validation,10
+Many people would feel anxious in your situation. It’s a very human response to a challenging experience.,,,,,,,V,Validation,10
+I can hear the pain in your voice when you talk about that experience. It must have been incredibly hard for you.,,,,,,,V,Validation,10
+That sounds incredibly challenging. I can imagine how difficult that must be for you.,,,,,,,V,Validation,10
+It’s understandable that you would feel overwhelmed by this.,,,,,,,V,Validation,10
+I understand that you’re feeling very hurt right now. It makes sense given what you’ve shared with me.,,,,,,,V,Validation,10
+It’s natural to feel angry when you’re treated unfairly. Anyone in your position would likely feel the same.,,,,,,,V,Validation,10
+I can imagine how painful it must be to feel rejected by someone you care about. That’s a difficult experience to go through.,,,,,,,V,Validation,10
+You know yourself better than anyone else. What do you think would be the most helpful next step?,,,,,,,RA,Respect for Autonomy,12
+I support your decision to set boundaries in that relationship. It sounds like it’s what you need for your well-being.,,,,,,,RA,Respect for Autonomy,12
+"This is just my opinion of course, and you might disagree, but from my perspective it seems that you have a number of qualities that make you a good candidate for this treatment.",,,,,,,RA,Respect for Autonomy,12
+"I'll tell you what I heard there and you tell me if I got it or not, but it's kind of like, you've been so busy from the time you were a girl, being a role model, and having these abilities, that you had no resting place.",,,,,,,RA,Respect for Autonomy,12
+We’ll move at a pace that feels comfortable for you. Let me know if you ever need to slow down or take a break.,,,,,,,RA,Respect for Autonomy,12
+How do you feel about the options we’ve discussed? Which one resonates most with you?,,,,,,,RA,Respect for Autonomy,12
+You have a lot of insight into your own life. What do you believe is the root of this issue?,,,,,,,RA,Respect for Autonomy,12
+You’ve got the strength and ability to handle this. What strategies have worked for you in the past?,,,,,,,RA,Respect for Autonomy,12
+Let’s focus on what you want to achieve in therapy. What are your goals for our work together?,,,,,,,RA,Respect for Autonomy,12
+It’s important that the direction we take aligns with what you want to accomplish. What are your priorities right now?,,,,,,,RA,Respect for Autonomy,12
+What do you think would be the best approach for you to take in this situation?,,,,,,,RA,Respect for Autonomy,12
+I believe you have the skills to manage this situation. How would you like to approach it?,,,,,,,RA,Respect for Autonomy,12
+There are several paths you could take. Would you like to explore the pros and cons of each one together?,,,,,,,RA,Respect for Autonomy,12
+"It’s your decision, and I’m here to support you in whatever you choose. What possibilities are you considering?",,,,,,,RA,Respect for Autonomy,12
+You have the power to make the changes you want to see in your life. What steps do you want to take first?,,,,,,,RA,Respect for Autonomy,12
+Trust your instincts. What do you feel is the right course of action for you?,,,,,,,RA,Respect for Autonomy,12
+It’s important that you feel ready before we move forward. How are you feeling about this step?,,,,,,,RA,Respect for Autonomy,12
+I’ve noticed a pattern in our conversations that I think is important to address. Would it be alright if I shared my observations with you?,,,,,,,AP,Asking for Permission,13
+"We’re about to discuss some potentially triggering topics. Are you feeling ready to go there, or would you prefer to wait?",,,,,,,AP,Asking for Permission,13
+"I would like to ask one more question about your upbringing, if I may?",,,,,,,AP,Asking for Permission,13
+Would it be too early to talk about that?,,,,,,,AP,Asking for Permission,13
+"You mentioned having a difficult experience in your past, and I hope you don't mind my asking how it has affected you?",,,,,,,AP,Asking for Permission,13
+I’d like to try a mindfulness exercise that might help you manage your anxiety. Would you be open to giving it a try?,,,,,,,AP,Asking for Permission,13
+I have some thoughts on what might be happening in your situation. Would you like to hear my perspective?,,,,,,,AP,Asking for Permission,13
+"I’d like to discuss your relationship with your parents, as it might be impacting your current situation. Are you ready to talk about that?",,,,,,,AP,Asking for Permission,13
+I have a homework assignment that might help you practice the skills we’re working on. Would you be willing to try it this week?,,,,,,,AP,Asking for Permission,13
+There’s an exercise that could help you reflect on your feelings between sessions. Would you like to give it a shot?,,,,,,,AP,Asking for Permission,13
+There’s a specific cognitive-behavioral technique that could be useful for addressing your negative thoughts. Is it okay if we explore that today?,,,,,,,AP,Asking for Permission,13
+"We’ve been discussing your job stress, but I wonder if it might be helpful to explore how that’s affecting your relationships. Would you be okay with that?",,,,,,,AP,Asking for Permission,13
+I’d like to shift our focus to developing some coping strategies for you. Is that something you’d be interested in?,,,,,,,AP,Asking for Permission,13
+I think it might be helpful for you to understand more about how anxiety works. Would you like me to explain some of the underlying mechanisms?,,,,,,,AP,Asking for Permission,13
+There’s some information about trauma that could be relevant to what you’re experiencing. Would it be okay if I shared that with you?,,,,,,,AP,Asking for Permission,13
+"I know this is a sensitive area for you. Are you comfortable continuing, or do you need a break?",,,,,,,AP,Asking for Permission,13
+I’ve been thinking about incorporating some elements of art therapy into our sessions. Would you be interested in that?,,,,,,,AP,Asking for Permission,13
+There’s a different therapeutic approach that might be beneficial for your situation. Are you open to trying something new?,,,,,,,AP,Asking for Permission,13
