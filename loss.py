@@ -2,10 +2,6 @@ import torch
 import torch.nn.functional as F
 from typing import Tuple, Optional
 
-import torch
-import torch.nn.functional as F
-from typing import Tuple
-
 def multi_task_contrastive_loss(
     node_emb: torch.Tensor,  # [B, hidden_dim]
     labels: torch.Tensor,    # [B, 4 + 3 + 8 = 15], i.e. CF, IC, Skills in one-hot/multi-hot
